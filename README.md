@@ -1,72 +1,36 @@
-# Getting Started with Create React App
+Project Proposal Document
+1. Project Idea: Music Player App with YouTube Integration
+Project Overview:
+The app will allow users to search for YouTube videos, stream only the audio from these videos, and create a personalized playlist for listening.
+Why I Chose This Idea:
+YouTube is one of the largest sources of audio and video content. Integrating its content into an app allows users to access music without needing to leave the app.
+The project helps me gain experience with APIs, front-end technologies, and audio streaming.
+It combines two of my passions: software development and music (DJing).
+Key Features:
+Search YouTube videos by song name or artist.
+Play YouTube videos in audio-only mode.
+Add songs to a custom playlist.
+Responsive design for mobile and desktop devices.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+2. API to Use: YouTube Data API v3 & YouTube IFrame Player API
+YouTube Data API v3
+The YouTube Data API will be used for:
+Searching for videos based on user input (song title, artist name).
+Fetching video details such as title, thumbnail, and video ID.
+Key Features of the API:
+Video Search: Query YouTube's database using keywords and filters.
+Metadata Retrieval: Access video details like title, description, and thumbnail images.
+Quotas: Allows up to 10,000 API requests per day for free.
+YouTube IFrame Player API
+The IFrame Player API will handle:
+Embedding and playing the YouTube video/audio.
+Hiding the video player to simulate audio-only playback.
+Managing playback controls (play, pause, stop, etc.).
 
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 i just made a change to the files by branching to a DEV branch. 
+
+
+theres more to the project HERE....
+
+https://docs.google.com/document/d/1o9a8AoD8OeZFdk1h5ntLBnKtH6fmyC9XrXKxBlHzROs/edit?usp=sharing  
